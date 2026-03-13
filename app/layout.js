@@ -5,7 +5,7 @@ const inter = Inter({
   subsets: ["latin"],
   variable: "--font-sans",
 });
-
+//setgsredgrthj
 const jetbrainsMono = JetBrains_Mono({
   subsets: ["latin"],
   variable: "--font-mono",
