@@ -15,7 +15,7 @@ import {
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { clsx } from 'clsx';
-
+//wefserg
 const NavItem = ({ icon: Icon, label, active, collapsed, onClick }) => (
     <button
         onClick={onClick}
